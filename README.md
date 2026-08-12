@@ -2,7 +2,7 @@
 
 ## My Current Project Interests
 -  I'm currently working on a **Financial Application to boost Financial Literacy**
--  I'm currently learning **Tensorflow.js for the usage in webbased agentic AI**
+-  I'm currently learning **Tensorflow.js for the usage in web-based agentic AI**
 
 ## 🧰 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
